@@ -1,7 +1,7 @@
 - 👋 Hi, I’m josh
 - 👀 I’m interested in bioinformatics, woodworking, and music.
 - 🌱 I’m currently learning how to turn gradware into production code.
-- 📫 How to reach me joshfactorial@gmail.com
+- 📫 How to reach me jallen17@illinois.edu
 
 <!---
 joshfactorial/joshfactorial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
