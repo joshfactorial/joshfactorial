@@ -1,6 +1,6 @@
 - 👋 Hi, I’m josh
 - 👀 I’m interested in bioinformatics, woodworking, and music.
-- 🌱 I’m currently learning how to turn gradware into production code.
+- 🌱 I’m currently learning Rust. Check out my project (https://github.com/ncsa/rusty-neat)! 
 - 📫 How to reach me jallen17@illinois.edu
 
 <!---
